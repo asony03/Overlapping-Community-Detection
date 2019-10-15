@@ -18,8 +18,8 @@ Python libraries needed:
 
 Instructions to run the program:
 1. Go the the directory containing main.py
-2. Run ```console python main.py <grpah_file_path>``` where "graph_file_path" is the path to the graph file.
-ex. ```console python main.py ./datasets/amazon/amazon.small.graph```
+2. Run ```python main.py <grpah_file_path>``` where "graph_file_path" is the path to the graph file.
+ex. ```python main.py ./datasets/amazon/amazon.small.graph```
 For the above input, the output file is "amazon.graph.small.clusters.txt".
 
 The output file contains the list of communities identified for the graph given as input.
